@@ -48,7 +48,3 @@ Runs 21 tests across three test classes. Results are also viewable as an HTML re
 
 Generated Javadoc is available at `target/site/apidocs/index.html` after running `mvn site` (or the full build command above).
 
-## Deliverables
-
-- **Report:** see `Lab1_Design_Report.docx` — discusses the design and testing approach for the OR, AND, and multiply methods.
-- **Demo video:** [ADD VIDEO LINK HERE]
